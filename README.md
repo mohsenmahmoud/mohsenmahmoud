@@ -2,13 +2,12 @@
 <h3 align="center">Interested in Mobile Development [ios] 📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsenmahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mohsenmahmoud" /> </p>
+ <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px/" style="max-width: 100%;">
 
 - 🏫 I am a Senior at **Faculty of Computers & Information at Thebes Academy University**
  
 - 🤔 I’m currently open for: An Intern or a new job opportunity      
 
- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="450px/" style="max-width: 100%;">
- 
 - 🔭 I’m currently working on [GitHub Followers](https://2u.pw/bnCQm)           
 
 - 🌱 I’m currently learning **ios native , MVVM , rxswift**
