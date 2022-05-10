@@ -7,14 +7,12 @@
 
 - 🤔 I’m currently open for: **An Intern or a new job opportunity**
 
-- 🔭 I’m currently working on [GitHub Followers](https://2u.pw/bnCQm)
+- 🔭 I’m currently working on [GitHub Followers](https://2u.pw/bnCQm)                           ![image](https://user-images.githubusercontent.com/45738961/167542115-1877be0b-4b07-4fb6-b49f-3244e53a53e0.png)
+
 
 - 🌱 I’m currently learning **ios native , MVVM , rxswift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohsenmahmoud](https://github.com/mohsenmahmoud)            
-- 
--                                       ![image](https://user-images.githubusercontent.com/45738961/167541919-e8a52d37-6391-4fbb-9599-e36db3897935.png)
-
 
 - 💬 Ask me about **ios , swift , UIKit , oop**
 
