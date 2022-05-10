@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **ios , swift , UIKit , oop**
 
-- 📄 Know about my experiences [Junior iOS Developer, I have Built and Developed native iOS apps, I am always seeking to write cleaner code with suitable design pattern, improve customer satisfaction. I am now intensifying all my efforts to enhance my technical skills and capabilities and learn new skills and technologies.](Junior iOS Developer, I have Built and Developed native iOS apps, I am always seeking to write cleaner code with suitable design pattern, improve customer satisfaction. I am now intensifying all my efforts to enhance my technical skills and capabilities and learn new skills and technologies.)
-
 - 🤓 Always **learning new things**
 
 <h3 align="left">Connect with me:</h3>
